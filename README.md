@@ -42,4 +42,4 @@ synchronization, and OpenCV.
 
 ## 📫 Connect
 
-LinkedIn:
+LinkedIn: Coming soon
